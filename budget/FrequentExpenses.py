@@ -23,4 +23,4 @@ ax.bar(categories, count)
 
 ax.set_title("# of Purchases by Category")
 
-plt.show()
+plt.show() 
